@@ -1,0 +1,6 @@
+- Definicion de minesweeper
+- Router
+  - POr que ?, porque si hacemos una spa el cliente es quien tiene que manejar las redirecciones y rutas
+  - https://tylermcginnis.com/build-your-own-react-router-v4
+- Javascript objects
+- Comienzo buscaminas

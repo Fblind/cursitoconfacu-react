@@ -1,0 +1,5 @@
+- Terminar buscaminas
+- Flux architecture
+  - Redux implementation
+  - Mostrar como usar context y reducer juntos para lograr lo "mismo"
+  - https://kentcdodds.com/blog/application-state-management-with-react
